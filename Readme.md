@@ -3,6 +3,11 @@
 This nuget package allows you to make System.Text.Json behave like Newtonsoft.Json.
 
 It should run smoothly with System.Text.Json version 4.6.0 and greater.
+To Install : 
+
+```
+Install-Package Straightforward.Converters
+```
 
 The package solve mainly the quoted numbers and nullable quoted numbers issue with System.Text.Json.
 
