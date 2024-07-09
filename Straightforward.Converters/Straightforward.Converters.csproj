@@ -12,7 +12,7 @@ Particularly useful in migrating from Asp.Net Core 2.x to 3.x</Description>
   </PropertyGroup>
 
   <ItemGroup>
-    <PackageReference Include="System.Text.Json" Version="4.6.0" />
+    <PackageReference Include="System.Text.Json" Version="8.0.4" />
   </ItemGroup>
 
 </Project>
